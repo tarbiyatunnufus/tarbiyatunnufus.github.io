@@ -217,13 +217,13 @@ section {
   max-height: 40px;
   margin-right: 6px;
 }
-.header .logo h1 {
-  font-size: 32px;
+.header .logo h1,h3 {
+  font-size: 20px;
   font-weight: 300;
   color: var(--color-secondary);
   font-family: var(--font-secondary);
 }
-.header .logo h1 span {
+.header .logo h1,h3 span {
   color: var(--color-primary);
   font-weight: 500;
 }
